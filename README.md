@@ -24,7 +24,7 @@ My goal is to:
 
 ## 📚 Current Progress
 
-- ✅ Linear Regression (One Feature) — implemented and understood  
+- ✅ Linear Regression (Multiple Feature), feature engineering and normal equation — implemented and understood  
 - 🔄 Working on deeper concepts and multi-feature regression  
 - 📈 Planning to explore more ML algorithms step by step  
 
